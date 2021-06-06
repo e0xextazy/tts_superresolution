@@ -1,0 +1,18 @@
+{
+    "min_db": -30,
+    "top_db": 80,
+    "duration": 1000,
+    "mel": false,
+    "griffin_lim_par": {
+    },
+    "input_par": {
+        "n_fft": 200,
+        "hop_length": 200,
+        "win_length": 200
+    },
+    "target_par": {
+        "n_fft": 400,
+        "hop_length": 100,
+        "win_length": 400
+    }
+}
