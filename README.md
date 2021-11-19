@@ -1,4 +1,4 @@
-# Super resolution spectrograms using UNet
+# Super resolution spectrograms using U-Net
 Improving the quality of synthesized speech by increasing the resolution of spectrograms.
 
 ## Note: This repository requires code refactoring
